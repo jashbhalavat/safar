@@ -1,8 +1,10 @@
 # safar
 
-Author - Jash Bhalavat
-Date - 12/15/2022
-Scope - Safar
+## Author
+### Jash Bhalavat
+## Date
+### 12/15/2022
+## Scope - Safar
 
-Links
+## Links
 Google drive - 
