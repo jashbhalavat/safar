@@ -1,6 +1,6 @@
 # **safar**
 
-## Author
+## Authors
 #####  - Jash Bhalavat
 ## Date Started
 ##### 12/15/2022
